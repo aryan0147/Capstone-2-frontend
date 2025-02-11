@@ -69,6 +69,3 @@ const API_KEY = 'AIzaSyXXXXXX-Your-API-Key-Here';
 
 ---
 
-## **💡 Need Help?**
-If you face any issues, feel free to raise an issue in the GitHub repo or contact me! 🚀
-

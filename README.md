@@ -2,6 +2,8 @@
 
 This project is a **Chrome extension** that fetches YouTube video comments, performs **sentiment analysis using ML models**, and visualizes results with graphs and statistics. The backend is a **Flask API deployed on Render**, integrated with **MLflow & DVC** for model management.
 
+VIDEO DEMO - https://www.youtube.com/watch?v=yJdWRSGu4Mc 
+
 ---
 
 ## **👁‍🗨 1. Clone the Frontend Repository**
